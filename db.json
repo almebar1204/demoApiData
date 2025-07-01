@@ -23,11 +23,11 @@
       "orderDate": "2025-05-10T15:30:00Z",
       "items": [
         {
-          "product": "Blue Blouse",
+          "product": "Green Sweater",
           "quantity": 1,
           "unitPrice": 20.99,
           "subtotal": 20.99,
-          "image": "https://indigotones.com/cdn/shop/files/bright-winter-royal-blue-pleione-cap-sleeve-split-neck-blouse.png"
+          "image": "https://u-mercari-images.mercdn.net/photos/m59345591189_1.jpg"
         },
         {
           "product": "Orange Skirt",
@@ -37,11 +37,11 @@
           "image": "https://www.mytheresa.com/media/1094/1238/100/0d/P00841534.jpg"
         },
         {
-          "product": "Green Sweater",
+          "product": "Blue Blouse",
           "quantity": 2,
           "unitPrice": 249.99,
           "subtotal": 499.98,
-          "image": "https://www.aspiga.com/cdn/shop/files/WebsiteCut-outs_35_800x.jpg"
+          "image": "https://u-mercari-images.mercdn.net/photos/m29909333358_1.jpg"
         }
       ],
       "shippingMethod": "Express Delivery",
