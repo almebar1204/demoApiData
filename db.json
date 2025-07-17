@@ -44,7 +44,7 @@
           "image": "https://decorceramica.vteximg.com.br/arquivos/ids/200301-800-800/EL04AL036.jpg?v=638180445562230000"
         }
       ],
-      "shippingMethod": "Express Delivery",
+      "shippingMethod": "Entrega Express",
       "orderTotal": 320.96,
       "paymentMethod": "PayPal",
       "paymentStatus": "Paid",
@@ -52,8 +52,8 @@
       "actualDispatchDate": "2025-07-18T00:30:00-05:00",
       "fulfillmentStatus": "DELIVERED",
       "deliveryMethodId": "EVRI-UK_ND",
-            "deliveryMethodName": "Evri UK Next Day",
-            "fullTrackingUrl": "https://www.evri.com/en/nextday/delivery.html?id=00340434267995634065"
+            "deliveryMethodName": "Interworld Freight Entrega Express",
+            "fullTrackingUrl": "https://interwf.com/es/industrias/materiales-de-construccion/"
     },
     {
       "orderNumber": "987654321",
@@ -78,14 +78,14 @@
       "orderDate": "2025-07-15T11:30:00-05:00",
       "items": [
         {
-          "product": "Hamilton Boulton Watch",
-          "quantity": 1,
-          "unitPrice": 690.00,
-          "subtotal": 690.00,
-          "image": "https://d1rkccsb0jf1bk.cloudfront.net/products/100052274/main/large/H13431553.jpg"
+          "product": "Grey Stone",
+          "quantity": 15,
+          "unitPrice": 450,
+          "subtotal": 6750,
+          "image": "https://www.adrihosan.com/wp-content/uploads/2025/03/azulejo-porcelanico-bonvoy-gris-3.jpg"
         }
       ],
-      "shippingMethod": "Standard Delivery",
+      "shippingMethod": "Entrega Estándar",
       "orderTotal": 690.00,
       "paymentMethod": "AMEX",
       "paymentStatus": "Paid",
@@ -93,8 +93,8 @@
       "actualDispatchDate": "2025-07-18T10:30:00-05:00",
       "fulfillmentStatus": "SHIPPED",
       "deliveryMethodId": "EVRI-UK_STD",
-            "deliveryMethodName": "Evri UK Standard Delivery",
-            "fullTrackingUrl": "https://www.evri.com/en/standard/delivery.html?id=00340434267995634065"
+            "deliveryMethodName": "Interworld Freight Standard Delivery",
+            "fullTrackingUrl": "https://interwf.com/es/industrias/materiales-de-construccion/"
     }
   ]
 }
