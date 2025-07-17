@@ -1,7 +1,7 @@
 {
   "inventory": [
     {
-      “sku”: “54321”,
+      "sku": "54321",
       "items": [
         {
          "product": "Marmol Carrara",
@@ -9,34 +9,32 @@
           "unitPrice": 700,
           "image": "https://interni.mx/cdn/shop/files/Portada_efecto_marmol.png?v=1718751284&width=3200"
         }
-      ],
-    },
+      ]
+    }
     {
-      “sku”: “54322”,
+      "sku": "54322",
       "items": [
         {
          "product": "Cincinatti Gray",
           "quantity": 15,
           "unitPrice": 450,
-          "subtotal": 6750,
           "image": "https://arklam.es/wp-content/uploads/2021/07/cocina-gris-1024x717.jpg"
         }
-      ],
-    },
+      ]
+    }
     {
-      “sku”: “54323”,
+      "sku": "54323",
       "items": [
         {
           "product": "Madera Revival",
           "quantity": 8,
           "unitPrice": 750,
-          "subtotal": 6000,
           "image": "https://decorceramica.vteximg.com.br/arquivos/ids/200301-800-800/EL04AL036.jpg?v=638180445562230000"
         }
-      ],
-    },
+      ]
+    }
     {
-      “sku”: “54324”,
+      "sku": "54324",
       "items": [
         {
         "product": "Madera Revival",
@@ -45,7 +43,7 @@
           "subtotal": 6000,
           "image": "https://decorceramica.vteximg.com.br/arquivos/ids/200301-800-800/EL04AL036.jpg?v=638180445562230000"
         }
-      ],
+      ]
     }
   ]
 }
