@@ -1,59 +1,15 @@
 {
-  "orders": [
+  "inventory": [
     {
-      "orderNumber": "987654322",
-      "email": "indy@adventures-r-us.com",
-      "customer": {
-        "firstName": "Indiana",
-        "lastName": "Jones",
-        "phone": "+44 20 1234 5678"
-      },
-      "billingAddress": {
-        "street": "42 High Street",
-        "city": "London",
-        "postalCode": "W1A 1AA",
-        "country": "United Kingdom"
-      },
-      "shippingAddress": {
-        "street": "28 Park Avenue",
-        "city": "Aberdeen",
-        "postalCode": "AB2 1AB",
-        "country": "United Kingdom"
-      },
-      "orderDate": "2025-07-10T10:30:00-05:00",
-      "items": [
+      "sku": "54321",
+      "item": [
         {
           "product": "Marmol Carrara",
           "quantity": 10,
           "unitPrice": 700,
-          "subtotal": 7000,
           "image": "https://interni.mx/cdn/shop/files/Portada_efecto_marmol.png?v=1718751284&width=3200"
-        },
-        {
-          "product": "Cincinatti Gray",
-          "quantity": 15,
-          "unitPrice": 450,
-          "subtotal": 6750,
-          "image": "https://arklam.es/wp-content/uploads/2021/07/cocina-gris-1024x717.jpg"
-        },
-        {
-          "product": "Madera Revival",
-          "quantity": 8,
-          "unitPrice": 750,
-          "subtotal": 6000,
-          "image": "https://decorceramica.vteximg.com.br/arquivos/ids/200301-800-800/EL04AL036.jpg?v=638180445562230000"
         }
       ],
-      "shippingMethod": "Entrega Express",
-      "orderTotal": 320.96,
-      "paymentMethod": "PayPal",
-      "paymentStatus": "Paid",
-      "estimatedDispatchDate": "2025-07-21T00:30:00-05:00",
-      "actualDispatchDate": "2025-07-21T00:30:00-05:00",
-      "fulfillmentStatus": "DELIVERED",
-      "deliveryMethodId": "EVRI-UK_ND",
-            "deliveryMethodName": "Interworld Freight Entrega Express",
-            "fullTrackingUrl": "https://interwf.com/es/industrias/materiales-de-construccion/"
     },
     {
       "orderNumber": "987654321",
@@ -63,19 +19,6 @@
         "lastName": "Jones",
         "phone": "+44 20 1234 5678"
       },
-      "billingAddress": {
-        "street": "42 High Street",
-        "city": "London",
-        "postalCode": "W1A 1AA",
-        "country": "United Kingdom"
-      },
-      "shippingAddress": {
-        "street": "1 Ashmeade Close",
-        "city": "York",
-        "postalCode": "YO2 2YB",
-        "country": "United Kingdom"
-      },
-      "orderDate": "2025-07-15T11:30:00-05:00",
       "items": [
         {
           "product": "Grey Stone",
@@ -85,16 +28,6 @@
           "image": "https://www.daltile.com.mx/uploads/serie/mediano/15248.jpg"
         }
       ],
-      "shippingMethod": "Entrega Estándar",
-      "orderTotal": 690.00,
-      "paymentMethod": "AMEX",
-      "paymentStatus": "Paid",
-      "estimatedDispatchDate": "2025-07-17T10:30:00-05:00",
-      "actualDispatchDate": "2025-07-18T10:30:00-05:00",
-      "fulfillmentStatus": "SHIPPED",
-      "deliveryMethodId": "EVRI-UK_STD",
-            "deliveryMethodName": "Interworld Freight Standard Delivery",
-            "fullTrackingUrl": "https://interwf.com/es/industrias/materiales-de-construccion/"
     }
   ]
 }
