@@ -52,8 +52,8 @@
       "actualDispatchDate": "2025-07-21T00:30:00-05:00",
       "fulfillmentStatus": "DELIVERED",
       "deliveryMethodId": "EVRI-UK_ND",
-            "deliveryMethodName": "Interworld Freight Entrega Express",
-            "fullTrackingUrl": "https://interwf.com/es/industrias/materiales-de-construccion/"
+            "deliveryMethodName": "Liberty Express Entrega rápida",
+            "fullTrackingUrl": "https://iqpack.libertyexpress.com/SearchGuide?hreflang=es-cr&_gl=1*80gjr1*_ga*NDgwMTUyNjAwLjE3NTQwOTYxODU.*_ga_ZN0CHH8VZB*czE3NTQwOTYxODQkbzEkZzEkdDE3NTQwOTYxOTMkajYwJGwwJGgw*_ga_MP0Y6SJBMF*czE3NTQwOTYxOTMkbzEkZzAkdDE3NTQwOTYxOTMkajYwJGwwJGgw"
     },
     {
       "orderNumber": "987654321",
@@ -100,8 +100,8 @@
       "actualDispatchDate": "2025-07-18T10:30:00-05:00",
       "fulfillmentStatus": "SHIPPED",
       "deliveryMethodId": "EVRI-UK_STD",
-            "deliveryMethodName": "Interworld Freight Standard Delivery",
-            "fullTrackingUrl": "https://interwf.com/es/industrias/materiales-de-construccion/"
+            "deliveryMethodName": "Liberty Express Entrega Estándar",
+            "fullTrackingUrl": "https://iqpack.libertyexpress.com/SearchGuide?hreflang=es-cr&_gl=1*80gjr1*_ga*NDgwMTUyNjAwLjE3NTQwOTYxODU.*_ga_ZN0CHH8VZB*czE3NTQwOTYxODQkbzEkZzEkdDE3NTQwOTYxOTMkajYwJGwwJGgw*_ga_MP0Y6SJBMF*czE3NTQwOTYxOTMkbzEkZzAkdDE3NTQwOTYxOTMkajYwJGwwJGgw"
     }
   ]
 }
