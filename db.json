@@ -83,6 +83,13 @@
           "unitPrice": 450,
           "subtotal": 6750,
           "image": "https://home-designmexico.com/cdn/shop/files/ASDAD_f66f059a-a07d-4638-bb42-eacf663edec0_600x600_crop_center.jpg?v=1699286542"
+        },
+        {
+          "product": "Madera Revival",
+          "quantity": 8,
+          "unitPrice": 750,
+          "subtotal": 6000,
+          "image": "https://decorceramica.vteximg.com.br/arquivos/ids/200301-800-800/EL04AL036.jpg?v=638180445562230000"
         }
       ],
       "shippingMethod": "Entrega Estándar",
