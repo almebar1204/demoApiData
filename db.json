@@ -27,21 +27,21 @@
           "quantity": 2,
           "unitPrice": 7500,
           "subtotal": 15000,
-          "image": "https://tienda.pequenomundo.com/media/catalog/product/cache/cafb2108781b7cade8474261f2e576b7/1/0/10070154_01.jpg"
+          "image": "https://bsecommerceprod.blob.core.windows.net/magento/catalog/product/cache/bc9e311e664dbb5929888a78159490c8/6/9/6925582176964-a.jpg"
         },
         {
           "product": "Taladro eléctrico Daewoo 750w",
           "quantity": 1,
           "unitPrice": 19500,
           "subtotal": 19500,
-          "image": "https://tienda.pequenomundo.com/media/catalog/product/cache/cafb2108781b7cade8474261f2e576b7/1/0/10030172_02_2.jpg"
+          "image": "https://daewooherramientas.com.ar/wp-content/uploads/2024/08/DACD1120M-300x300.jpg"
         },
         {
           "product": "Casco motocicleta con visera",
           "quantity": 1,
           "unitPrice": 7500,
           "subtotal": 7500,
-          "image": "https://tienda.pequenomundo.com/media/catalog/product/cache/cafb2108781b7cade8474261f2e576b7/1/0/10060212_02.jpg"
+          "image": "https://crazydayfactory.com/wp-content/uploads/2024/03/P-53.png"
         }
       ],
       "shippingMethod": "Entrega Express",
