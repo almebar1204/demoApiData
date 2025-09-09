@@ -25,15 +25,15 @@
         {
           "product": "iPhone 16 Pro Max",
           "quantity": 1,
-          "unitPrice": 11,999,
-          "subtotal": 11,999,
+          "unitPrice": 11999,
+          "subtotal": 11999,
           "image": "https://www.macstoreonline.com.mx/img/cx/media/all-products/iPhone/iPhone_16_Pro_Max.png"
         },
         {
           "product": "iPad Pro",
           "quantity": 1,
-          "unitPrice": 9,999,
-          "subtotal": 9,999,
+          "unitPrice": 9999,
+          "subtotal": 9999,
           "image": "https://macstoreonline.com.mx/img/sku/ipadapp732_FZ.jpg"
         },
         {
@@ -80,8 +80,8 @@
         {
           "product": "Apple Watch Ultra 2",
           "quantity": 1,
-          "unitPrice": 6,999,
-          "subtotal": 6,999,
+          "unitPrice": 6999,
+          "subtotal": 6999,
           "image": "https://ss632.liverpool.com.mx/xl/1163576798.jpg"
         }
       ],
