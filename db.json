@@ -23,25 +23,25 @@
       "orderDate": "2025-07-10T10:30:00-05:00",
       "items": [
         {
-          "product": "Zapato punta acero",
-          "quantity": 2,
-          "unitPrice": 7500,
-          "subtotal": 15000,
-          "image": "https://www.provesi.com.co/5895-large_default/bota-seguridad-romano-work-negra-dama-con-puntera-rh.jpg"
+          "product": "iPhone 16 Pro Max",
+          "quantity": 1,
+          "unitPrice": 11,999,
+          "subtotal": 11,999,
+          "image": "https://www.macstoreonline.com.mx/img/cx/media/all-products/iPhone/iPhone_16_Pro_Max.png"
         },
         {
-          "product": "Juego desarmadores",
+          "product": "iPad Pro",
           "quantity": 1,
-          "unitPrice": 8500,
-          "subtotal": 8500,
-          "image": "https://www.dwmxparts.mx/image/cache/catalog/001dewalt/SMHT65104-550x550..jpg"
+          "unitPrice": 9,999,
+          "subtotal": 9,999,
+          "image": "https://macstoreonline.com.mx/img/sku/ipadapp732_FZ.jpg"
         },
         {
-          "product": "Casco bicicleta",
+          "product": "AirPods 4a Gen",
           "quantity": 1,
-          "unitPrice": 7500,
-          "subtotal": 7500,
-          "image": "https://bicimundomx.vtexassets.com/arquivos/ids/169593/1795600_1.jpg?v=638767952114600000"
+          "unitPrice": 1299,
+          "subtotal": 1299,
+          "image": "https://m.media-amazon.com/images/I/410S21l+1RL._AC_.jpg"
         }
       ],
       "shippingMethod": "Entrega Express",
@@ -78,11 +78,11 @@
       "orderDate": "2025-07-15T11:30:00-05:00",
       "items": [
         {
-          "product": "Mesa decorativa",
+          "product": "Apple Watch Ultra 2",
           "quantity": 1,
-          "unitPrice": 25000,
-          "subtotal": 25000,
-          "image": "https://bymarmolmx.com/cdn/shop/products/B7_large.jpg?v=1658111647"
+          "unitPrice": 6,999,
+          "subtotal": 6,999,
+          "image": "https://ss632.liverpool.com.mx/xl/1163576798.jpg"
         }
       ],
       "shippingMethod": "Entrega Estándar",
