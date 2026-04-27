@@ -78,6 +78,13 @@
       "orderDate": "2026-04-18T11:30:00-05:00",
       "items": [
         {
+          "product": "LV DE SOBREPONER LUCERNA BLANCO",
+          "quantity": 1,
+          "unitPrice": 2499,
+          "subtotal": 2499,
+          "image2": "https://azulemex.com/cdn/shop/files/ChatGPT_Image_1_oct_2025_03_35_50_p.m..png?v=1759354658&width=360"
+        },
+        {
           "product": "TOCADOR ALHELI",
           "quantity": 1,
           "unitPrice": 3999,
