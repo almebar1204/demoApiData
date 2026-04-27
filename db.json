@@ -27,21 +27,21 @@
           "quantity": 1,
           "unitPrice": 3349,
           "subtotal": 3349,
-          "image": "https://azulemex.com/cdn/shop/files/san_pq.png?v=1746039307&width=360"
+          "image1": "https://azulemex.com/cdn/shop/files/san_pq.png?v=1746039307&width=360"
         },
         {
           "product": "LV DE SOBREPONER LUCERNA BLANCO",
           "quantity": 1,
           "unitPrice": 2499,
           "subtotal": 2499,
-          "image": "https://azulemex.com/cdn/shop/files/ChatGPT_Image_1_oct_2025_03_35_50_p.m..png?v=1759354658&width=360"
+          "image2": "https://azulemex.com/cdn/shop/files/ChatGPT_Image_1_oct_2025_03_35_50_p.m..png?v=1759354658&width=360"
         },
         {
           "product": "117-38 FLUX.VISIBLE",
           "quantity": 1,
           "unitPrice": 4499,
           "subtotal": 4499,
-          "image": "https://azulemex.com/cdn/shop/products/117-38_1200.jpg?v=1694997147&width=360"
+          "image3": "https://azulemex.com/cdn/shop/products/117-38_1200.jpg?v=1694997147&width=360"
         }
       ],
       "shippingMethod": "Entrega Express",
